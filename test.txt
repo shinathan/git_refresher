@@ -1,3 +1,3 @@
 hello!
 second line
-third line
+we fixed the bug
