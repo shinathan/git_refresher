@@ -1,4 +1,5 @@
 hello!
 second line
+we fixed the bug
 third line
 added feature
